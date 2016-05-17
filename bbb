@@ -1,0 +1,10 @@
+x86_64-linux-thread-mulUtsie:r:PCeornltIrOi:b:ugtzexid8p6(P_3e6)r4l-lDioncuuxm-etnhtraetaido-nmulti::PerlIO::gzip(3)
+
+
+
+NNAAMMEE
+       PerlIO::gzip - Perl extension to provide a PerlIO layer to gzip/gunzip
+
+SSYYNNOOPPSSIISS
+         use PerlIO::gzip;
+         open FOO, "<:gzip", "file.gz" or die $!;
